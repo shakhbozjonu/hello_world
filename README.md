@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project.
+Homework 1 by Shakhbozjon Usmonov. JSE05, ID:2110127
 
 ## Getting Started
 
